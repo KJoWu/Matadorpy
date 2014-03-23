@@ -18,5 +18,4 @@ class MatadorSpider(Spider):
             item=DrugInfo()
             item['drugname'] =site.xpath('a/text()').extract()
             item['link'] = site.xpath('a/@href').extract() 
-            items.append(item)
-        return items
+            return items
