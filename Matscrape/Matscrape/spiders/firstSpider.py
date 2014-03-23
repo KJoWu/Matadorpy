@@ -1,5 +1,6 @@
 from scrapy.spider import Spider
 from scrapy.selector import Selector
+from Matscrape.items import DrugInfo
 
 
 class MatadorSpider(Spider):
@@ -12,7 +13,10 @@ class MatadorSpider(Spider):
     def parse(self, response):
         sel = Selector(response)
         sites = sel.xpath('//ul/li')
+        items=[]
         for site in sites:
-            drugname =site.xpath('a/text()').extract()
-            link = site.xpath('a/@href').extract()              
-            print "drug is", drugname, "link is" , link
+            item=DrugInfo()
+            item['drugname'] =site.xpath('a/text()').extract()
+            item['link'] = site.xpath('a/@href').extract() 
+            items.append(item)
+        return items
