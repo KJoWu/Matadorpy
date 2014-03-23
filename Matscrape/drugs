@@ -1,0 +1,1642 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>MATADOR</title>
+	<link href="/media/matador.css" rel="stylesheet" type="text/css">
+</head>
+<body >
+    
+    
+    <div id="header">
+		<p><a href="/" class="plain"><strong>MATADOR: Manually Annotated Targets and Drugs Online Resource</strong></a></p>
+    </div>
+	
+    <div id="content">
+        
+
+
+    <ul>
+    
+        <li><a href="2202/">1,8-dihydroxy-9-anthrone</a></li>
+    
+        <li><a href="9904/">19-nortestosterone</a></li>
+    
+        <li><a href="1546/">2-chlorodeoxyadenosine</a></li>
+    
+        <li><a href="1593/">25-hydroxyvitamin D</a></li>
+    
+        <li><a href="5219/">3-morpholinosydnonimine</a></li>
+    
+        <li><a href="3408/">4-hydroxyandrostenedione</a></li>
+    
+        <li><a href="9015/">4-hydroxyanisole</a></li>
+    
+        <li><a href="5280567/">4-methylumbelliferone</a></li>
+    
+        <li><a href="4075/">5-aminosalicylic acid</a></li>
+    
+        <li><a href="3385/">5-fluorouracil</a></li>
+    
+        <li><a href="39880/">5-methylpyrazinecarboxylic acid 4-oxide</a></li>
+    
+        <li><a href="5473386/">6-mercaptopurine</a></li>
+    
+        <li><a href="4114/">8-methoxypsoralen</a></li>
+    
+        <li><a href="2449/">AA-2414</a></li>
+    
+        <li><a href="564/">ACA</a></li>
+    
+        <li><a href="2578/">BCNU</a></li>
+    
+        <li><a href="65866/">Cardiovasc</a></li>
+    
+        <li><a href="1234/">D-600</a></li>
+    
+        <li><a href="4727/">D-penicillamine</a></li>
+    
+        <li><a href="4739/">DCF</a></li>
+    
+        <li><a href="27991/">DDAVP</a></li>
+    
+        <li><a href="653/">DTC</a></li>
+    
+        <li><a href="3199/">ET-743</a></li>
+    
+        <li><a href="3154/">Ets</a></li>
+    
+        <li><a href="122197/">FP-CIT</a></li>
+    
+        <li><a href="28283/">Fe(II)-EDTA</a></li>
+    
+        <li><a href="10413/">GHB</a></li>
+    
+        <li><a href="1990/">Hae</a></li>
+    
+        <li><a href="40976/">Implanon</a></li>
+    
+        <li><a href="71749/">LINK</a></li>
+    
+        <li><a href="55197/">Linomide</a></li>
+    
+        <li><a href="9991/">MGB</a></li>
+    
+        <li><a href="4272/">MOA</a></li>
+    
+        <li><a href="51634/">N-butyldeoxynojirimycin</a></li>
+    
+        <li><a href="4942/">P-4</a></li>
+    
+        <li><a href="2329/">PFD</a></li>
+    
+        <li><a href="122316/">Ras</a></li>
+    
+        <li><a href="7510/">Ronicol</a></li>
+    
+        <li><a href="1080/">SCMC</a></li>
+    
+        <li><a href="128919/">SR 57746A</a></li>
+    
+        <li><a href="6575/">TCE</a></li>
+    
+        <li><a href="1935/">THA</a></li>
+    
+        <li><a href="53359/">TOL</a></li>
+    
+        <li><a href="6503/">Tris buffer</a></li>
+    
+        <li><a href="71388/">Triton WR-1339</a></li>
+    
+        <li><a href="71637/">UK-738</a></li>
+    
+        <li><a href="3103/">Vena</a></li>
+    
+        <li><a href="17513/">acadesine</a></li>
+    
+        <li><a href="71158/">acamprosate</a></li>
+    
+        <li><a href="41774/">acarbose</a></li>
+    
+        <li><a href="1978/">acebutolol</a></li>
+    
+        <li><a href="1979/">aceclidine</a></li>
+    
+        <li><a href="9052/">acenocoumarol</a></li>
+    
+        <li><a href="1983/">acetaminophen</a></li>
+    
+        <li><a href="1986/">acetazolamide</a></li>
+    
+        <li><a href="1989/">acetohexamide</a></li>
+    
+        <li><a href="60561/">acetorphan</a></li>
+    
+        <li><a href="1996/">acetylcarnitine</a></li>
+    
+        <li><a href="5310993/">acipimox</a></li>
+    
+        <li><a href="41317/">acitretin</a></li>
+    
+        <li><a href="2008/">aclarubicin</a></li>
+    
+        <li><a href="55756/">acrivastine</a></li>
+    
+        <li><a href="60164/">adapalene</a></li>
+    
+        <li><a href="424379/">adenosylcobalamin</a></li>
+    
+        <li><a href="3033226/">adrafinil</a></li>
+    
+        <li><a href="5282405/">alcuronium</a></li>
+    
+        <li><a href="2088/">alendronate</a></li>
+    
+        <li><a href="51263/">alfentanil</a></li>
+    
+        <li><a href="2092/">alfuzosin</a></li>
+    
+        <li><a href="83786/">allopurinol</a></li>
+    
+        <li><a href="2099/">alosetron</a></li>
+    
+        <li><a href="3125/">alpha-methyl-p-tyrosine</a></li>
+    
+        <li><a href="68930/">alphaxalone</a></li>
+    
+        <li><a href="2118/">alprazolam</a></li>
+    
+        <li><a href="2119/">alprenolol</a></li>
+    
+        <li><a href="2130/">amantadine</a></li>
+    
+        <li><a href="2131/">ambenonium</a></li>
+    
+        <li><a href="16231/">amiloride</a></li>
+    
+        <li><a href="2145/">aminoglutethimide</a></li>
+    
+        <li><a href="6009/">aminopyrine</a></li>
+    
+        <li><a href="2156/">amiodarone</a></li>
+    
+        <li><a href="2159/">amisulpride</a></li>
+    
+        <li><a href="2160/">amitriptyline</a></li>
+    
+        <li><a href="2161/">amlexanox</a></li>
+    
+        <li><a href="2162/">amlodipine</a></li>
+    
+        <li><a href="3007/">amphetamine</a></li>
+    
+        <li><a href="2179/">amsacrine</a></li>
+    
+        <li><a href="2187/">anastrozole</a></li>
+    
+        <li><a href="2200/">antazoline</a></li>
+    
+        <li><a href="2215/">apomorphine</a></li>
+    
+        <li><a href="151165/">aprepitant</a></li>
+    
+        <li><a href="2232/">argatroban</a></li>
+    
+        <li><a href="60795/">aripiprazole</a></li>
+    
+        <li><a href="2244/">aspirin</a></li>
+    
+        <li><a href="2247/">astemizole</a></li>
+    
+        <li><a href="2249/">atenolol</a></li>
+    
+        <li><a href="54841/">atomoxetine</a></li>
+    
+        <li><a href="2250/">atorvastatin</a></li>
+    
+        <li><a href="68613/">atosiban</a></li>
+    
+        <li><a href="47319/">atracurium</a></li>
+    
+        <li><a href="3661/">atropine</a></li>
+    
+        <li><a href="6918453/">auranofin</a></li>
+    
+        <li><a href="26098/">azapropazone</a></li>
+    
+        <li><a href="2265/">azathioprine</a></li>
+    
+        <li><a href="2266/">azelaic acid</a></li>
+    
+        <li><a href="2267/">azelastine</a></li>
+    
+        <li><a href="2284/">baclofen</a></li>
+    
+        <li><a href="54766/">bambuterol</a></li>
+    
+        <li><a href="2308/">beclomethasone</a></li>
+    
+        <li><a href="2311/">benazepril</a></li>
+    
+        <li><a href="2315/">bendrofluazide</a></li>
+    
+        <li><a href="2324/">benidipine</a></li>
+    
+        <li><a href="39941/">benoxaprofen</a></li>
+    
+        <li><a href="2333/">benzbromarone</a></li>
+    
+        <li><a href="2337/">benzocaine</a></li>
+    
+        <li><a href="7187/">benzoyl peroxide</a></li>
+    
+        <li><a href="2344/">benztropine</a></li>
+    
+        <li><a href="12555/">benzydamine</a></li>
+    
+        <li><a href="685814/">benzylthiouracil</a></li>
+    
+        <li><a href="2351/">bepridil</a></li>
+    
+        <li><a href="2352/">beraprost sodium</a></li>
+    
+        <li><a href="108057/">beta-acetyldigoxin</a></li>
+    
+        <li><a href="2366/">betahistine</a></li>
+    
+        <li><a href="247/">betaine</a></li>
+    
+        <li><a href="2369/">betaxolol</a></li>
+    
+        <li><a href="7741/">betazole</a></li>
+    
+        <li><a href="2370/">bethanechol</a></li>
+    
+        <li><a href="39042/">bezafibrate</a></li>
+    
+        <li><a href="2375/">bicalutamide</a></li>
+    
+        <li><a href="2381/">biperiden</a></li>
+    
+        <li><a href="6335486/">bismuth subcitrate</a></li>
+    
+        <li><a href="2405/">bisoprolol</a></li>
+    
+        <li><a href="44112/">bopindolol</a></li>
+    
+        <li><a href="93860/">bortezomib</a></li>
+    
+        <li><a href="104865/">bosentan</a></li>
+    
+        <li><a href="2435/">brimonidine</a></li>
+    
+        <li><a href="68844/">brinzolamide</a></li>
+    
+        <li><a href="2443/">bromocriptine</a></li>
+    
+        <li><a href="2448/">bromperidol</a></li>
+    
+        <li><a href="6834/">brompheniramine</a></li>
+    
+        <li><a href="2451/">brotizolam</a></li>
+    
+        <li><a href="2462/">budesonide</a></li>
+    
+        <li><a href="68778/">budipine</a></li>
+    
+        <li><a href="2471/">bumetanide</a></li>
+    
+        <li><a href="2476/">buprenorphine</a></li>
+    
+        <li><a href="444/">bupropion</a></li>
+    
+        <li><a href="2477/">buspirone</a></li>
+    
+        <li><a href="2478/">busulfan</a></li>
+    
+        <li><a href="2487/">butorphanol</a></li>
+    
+        <li><a href="2512/">cabergoline</a></li>
+    
+        <li><a href="2519/">caffeine</a></li>
+    
+        <li><a href="2522/">calcipotriol</a></li>
+    
+        <li><a href="2536/">camostat mesilate</a></li>
+    
+        <li><a href="2537/">camphor</a></li>
+    
+        <li><a href="2541/">candesartan</a></li>
+    
+        <li><a href="13789/">canrenone</a></li>
+    
+        <li><a href="60953/">capecitabine</a></li>
+    
+        <li><a href="2548/">capsaicin</a></li>
+    
+        <li><a href="2550/">captopril</a></li>
+    
+        <li><a href="2551/">carbachol</a></li>
+    
+        <li><a href="2554/">carbamazepine</a></li>
+    
+        <li><a href="2561/">carbenoxolone</a></li>
+    
+        <li><a href="71715/">carbetocin</a></li>
+    
+        <li><a href="2569/">carboquone</a></li>
+    
+        <li><a href="2583/">carteolol</a></li>
+    
+        <li><a href="2585/">carvedilol</a></li>
+    
+        <li><a href="2662/">celecoxib</a></li>
+    
+        <li><a href="2676/">cerivastatin</a></li>
+    
+        <li><a href="2678/">cetirizine</a></li>
+    
+        <li><a href="2707/">chloral hydrate</a></li>
+    
+        <li><a href="2712/">chlordiazepoxide</a></li>
+    
+        <li><a href="10783/">chlormethiazole</a></li>
+    
+        <li><a href="5977/">chlorobutanol</a></li>
+    
+        <li><a href="6212/">chloroform</a></li>
+    
+        <li><a href="25295/">chloropyramine</a></li>
+    
+        <li><a href="2720/">chlorothiazide</a></li>
+    
+        <li><a href="2725/">chlorpheniramine</a></li>
+    
+        <li><a href="2726/">chlorpromazine</a></li>
+    
+        <li><a href="2732/">chlorthalidone</a></li>
+    
+        <li><a href="2733/">chlorzoxazone</a></li>
+    
+        <li><a href="2747/">cibenzoline</a></li>
+    
+        <li><a href="444033/">ciclesonide</a></li>
+    
+        <li><a href="54910/">cicletanine</a></li>
+    
+        <li><a href="2751/">cilazapril</a></li>
+    
+        <li><a href="2752/">cilnidipine</a></li>
+    
+        <li><a href="2756/">cimetidine</a></li>
+    
+        <li><a href="2761/">cinnarizine</a></li>
+    
+        <li><a href="2763/">ciprofibrate</a></li>
+    
+        <li><a href="2769/">cisapride</a></li>
+    
+        <li><a href="2780/">clebopride</a></li>
+    
+        <li><a href="2781/">clemastine</a></li>
+    
+        <li><a href="2783/">clenbuterol</a></li>
+    
+        <li><a href="2796/">clofibrate</a></li>
+    
+        <li><a href="2800/">clomiphene citrate</a></li>
+    
+        <li><a href="2801/">clomipramine</a></li>
+    
+        <li><a href="2802/">clonazepam</a></li>
+    
+        <li><a href="2803/">clonidine</a></li>
+    
+        <li><a href="2806/">clopidogrel</a></li>
+    
+        <li><a href="68876/">cloricromene</a></li>
+    
+        <li><a href="2818/">clozapine</a></li>
+    
+        <li><a href="2826/">cocaine</a></li>
+    
+        <li><a href="2828/">codeine</a></li>
+    
+        <li><a href="2832/">colcemid</a></li>
+    
+        <li><a href="2833/">colchicine</a></li>
+    
+        <li><a href="160051/">colesevelam hydrochloride</a></li>
+    
+        <li><a href="66249/">cortivazol</a></li>
+    
+        <li><a href="2910/">cyclothiazide</a></li>
+    
+        <li><a href="2913/">cyproheptadine</a></li>
+    
+        <li><a href="6058/">cysteamine</a></li>
+    
+        <li><a href="596/">cytosine arabinoside</a></li>
+    
+        <li><a href="1210/">d-tubocurarine</a></li>
+    
+        <li><a href="5281007/">dacarbazine</a></li>
+    
+        <li><a href="2949/">danazol</a></li>
+    
+        <li><a href="2951/">dantrolene</a></li>
+    
+        <li><a href="2958/">daunorubicin</a></li>
+    
+        <li><a href="2965/">debrisoquine</a></li>
+    
+        <li><a href="469186/">deferiprone</a></li>
+    
+        <li><a href="26709/">deflazacort</a></li>
+    
+        <li><a href="2976/">delapril</a></li>
+    
+        <li><a href="2978/">delta 9-tetrahydrocannabinol</a></li>
+    
+        <li><a href="55362/">deoxyspergualin</a></li>
+    
+        <li><a href="2973/">desferrioxamine</a></li>
+    
+        <li><a href="2995/">desipramine</a></li>
+    
+        <li><a href="124087/">desloratadine</a></li>
+    
+        <li><a href="40973/">desogestrel</a></li>
+    
+        <li><a href="21847/">dexetimide</a></li>
+    
+        <li><a href="30623/">dexrazoxane</a></li>
+    
+        <li><a href="3008/">dextromethorphan</a></li>
+    
+        <li><a href="26248/">diacerein</a></li>
+    
+        <li><a href="3016/">diazepam</a></li>
+    
+        <li><a href="3019/">diazoxide</a></li>
+    
+        <li><a href="3025/">dibucaine</a></li>
+    
+        <li><a href="2460/">dibutyryl cyclic AMP</a></li>
+    
+        <li><a href="3038/">dichlorphenamide</a></li>
+    
+        <li><a href="3032/">diclofenac</a></li>
+    
+        <li><a href="3042/">dicyclomine</a></li>
+    
+        <li><a href="3054/">diethylstilbestrol</a></li>
+    
+        <li><a href="3059/">diflunisal</a></li>
+    
+        <li><a href="3061/">digitoxin</a></li>
+    
+        <li><a href="3062/">digoxin</a></li>
+    
+        <li><a href="3063/">dihydrocodeine</a></li>
+    
+        <li><a href="3066/">dihydroergotamine</a></li>
+    
+        <li><a href="6181/">diiodotyrosine</a></li>
+    
+        <li><a href="5936/">diisopropylfluorophosphate</a></li>
+    
+        <li><a href="3074/">dilazep</a></li>
+    
+        <li><a href="3075/">diltiazem</a></li>
+    
+        <li><a href="21855/">dimethindene</a></li>
+    
+        <li><a href="5281612/">diosmetin</a></li>
+    
+        <li><a href="6138/">dipalmitoylphosphatidylcholine</a></li>
+    
+        <li><a href="3100/">diphenhydramine</a></li>
+    
+        <li><a href="3108/">dipyridamole</a></li>
+    
+        <li><a href="3110/">dipyrone</a></li>
+    
+        <li><a href="3114/">disopyramide</a></li>
+    
+        <li><a href="3116/">distigmine bromide</a></li>
+    
+        <li><a href="3117/">disulfiram</a></li>
+    
+        <li><a href="10187/">dithranol</a></li>
+    
+        <li><a href="36811/">dobutamine</a></li>
+    
+        <li><a href="3143/">docetaxel</a></li>
+    
+        <li><a href="71329/">dofetilide</a></li>
+    
+        <li><a href="3148/">dolasetron</a></li>
+    
+        <li><a href="3151/">domperidone</a></li>
+    
+        <li><a href="3152/">donepezil</a></li>
+    
+        <li><a href="55483/">dopexamine</a></li>
+    
+        <li><a href="3157/">doxazosin</a></li>
+    
+        <li><a href="3158/">doxepin</a></li>
+    
+        <li><a href="3168/">droperidol</a></li>
+    
+        <li><a href="3181/">dydrogesterone</a></li>
+    
+        <li><a href="3182/">dyphylline</a></li>
+    
+        <li><a href="3191/">ebastine</a></li>
+    
+        <li><a href="10548/">echothiophate</a></li>
+    
+        <li><a href="77993/">eletriptan</a></li>
+    
+        <li><a href="48041/">encainide</a></li>
+    
+        <li><a href="3226/">enflurane</a></li>
+    
+        <li><a href="3231/">enprostil</a></li>
+    
+        <li><a href="4659568/">entacapone</a></li>
+    
+        <li><a href="5032/">ephedrine</a></li>
+    
+        <li><a href="3241/">epinastine</a></li>
+    
+        <li><a href="150310/">eplerenone</a></li>
+    
+        <li><a href="115056/">epomediol</a></li>
+    
+        <li><a href="60879/">eprosartan</a></li>
+    
+        <li><a href="5311082/">eptifibatide</a></li>
+    
+        <li><a href="65632/">erdosteine</a></li>
+    
+        <li><a href="4210613/">ergometrine</a></li>
+    
+        <li><a href="3251/">ergotamine</a></li>
+    
+        <li><a href="18140/">estramustine</a></li>
+    
+        <li><a href="3285/">estrogen</a></li>
+    
+        <li><a href="3278/">ethacrynic acid</a></li>
+    
+        <li><a href="3290/">ethopropazine</a></li>
+    
+        <li><a href="3291/">ethosuximide</a></li>
+    
+        <li><a href="3303/">ethylmorphine</a></li>
+    
+        <li><a href="3308/">etodolac</a></li>
+    
+        <li><a href="65777/">etofibrate</a></li>
+    
+        <li><a href="36339/">etomidate</a></li>
+    
+        <li><a href="3310/">etoposide</a></li>
+    
+        <li><a href="123619/">etoricoxib</a></li>
+    
+        <li><a href="3312/">etretinate</a></li>
+    
+        <li><a href="11954269/">everolimus</a></li>
+    
+        <li><a href="60198/">exemestane</a></li>
+    
+        <li><a href="150311/">ezetimibe</a></li>
+    
+        <li><a href="3325/">famotidine</a></li>
+    
+        <li><a href="3547/">fasudil</a></li>
+    
+        <li><a href="3331/">felbamate</a></li>
+    
+        <li><a href="3333/">felodipine</a></li>
+    
+        <li><a href="3336/">fendiline</a></li>
+    
+        <li><a href="3339/">fenofibrate</a></li>
+    
+        <li><a href="3340/">fenoldopam</a></li>
+    
+        <li><a href="3342/">fenoprofen</a></li>
+    
+        <li><a href="3343/">fenoterol</a></li>
+    
+        <li><a href="3344/">fenspiride</a></li>
+    
+        <li><a href="3345/">fentanyl</a></li>
+    
+        <li><a href="5478817/">ferrous fumarate</a></li>
+    
+        <li><a href="3348/">fexofenadine</a></li>
+    
+        <li><a href="3350/">finasteride</a></li>
+    
+        <li><a href="3355/">flecainide</a></li>
+    
+        <li><a href="3367/">fludarabine</a></li>
+    
+        <li><a href="31378/">fludrocortisone</a></li>
+    
+        <li><a href="3371/">flufenamic acid</a></li>
+    
+        <li><a href="3377/">flunarizine</a></li>
+    
+        <li><a href="3379/">flunisolide</a></li>
+    
+        <li><a href="3380/">flunitrazepam</a></li>
+    
+        <li><a href="3381/">fluocinolone acetonide</a></li>
+    
+        <li><a href="3386/">fluoxetine</a></li>
+    
+        <li><a href="3387/">fluoxymesterone</a></li>
+    
+        <li><a href="17012/">flupenthixol</a></li>
+    
+        <li><a href="3372/">fluphenazine</a></li>
+    
+        <li><a href="53276/">flupirtine</a></li>
+    
+        <li><a href="3393/">flurazepam</a></li>
+    
+        <li><a href="3394/">flurbiprofen</a></li>
+    
+        <li><a href="3396/">fluspirilene</a></li>
+    
+        <li><a href="3397/">flutamide</a></li>
+    
+        <li><a href="3399/">fluticasone propionate</a></li>
+    
+        <li><a href="3403/">fluvastatin</a></li>
+    
+        <li><a href="3404/">fluvoxamine</a></li>
+    
+        <li><a href="163742/">fondaparinux sodium</a></li>
+    
+        <li><a href="3419/">fosinopril</a></li>
+    
+        <li><a href="104799/">fotemustine</a></li>
+    
+        <li><a href="104741/">fulvestrant</a></li>
+    
+        <li><a href="723/">fumarate</a></li>
+    
+        <li><a href="3440/">furosemide</a></li>
+    
+        <li><a href="3446/">gabapentin</a></li>
+    
+        <li><a href="3449/">galantamine</a></li>
+    
+        <li><a href="67425/">gallamine</a></li>
+    
+        <li><a href="3453/">gamma-linolenic acid</a></li>
+    
+        <li><a href="123631/">gefitinib</a></li>
+    
+        <li><a href="3461/">gemcitabine</a></li>
+    
+        <li><a href="3463/">gemfibrozil</a></li>
+    
+        <li><a href="55191/">gepirone</a></li>
+    
+        <li><a href="27812/">gestrinone</a></li>
+    
+        <li><a href="3488/">glibenclamide</a></li>
+    
+        <li><a href="3475/">gliclazide</a></li>
+    
+        <li><a href="3476/">glimepiride</a></li>
+    
+        <li><a href="3478/">glipizide</a></li>
+    
+        <li><a href="610/">glucuronic acid</a></li>
+    
+        <li><a href="823/">glycerophosphocholine</a></li>
+    
+        <li><a href="3494/">glycopyrrolate</a></li>
+    
+        <li><a href="3230/">glycyrrhetinic acid</a></li>
+    
+        <li><a href="11954225/">gold sodium thiomalate</a></li>
+    
+        <li><a href="6104/">gold thioglucose</a></li>
+    
+        <li><a href="3510/">granisetron</a></li>
+    
+        <li><a href="3518/">guanethidine</a></li>
+    
+        <li><a href="3519/">guanfacine</a></li>
+    
+        <li><a href="9567831/">guanoxabenz</a></li>
+    
+        <li><a href="3559/">haloperidol</a></li>
+    
+        <li><a href="3562/">halothane</a></li>
+    
+        <li><a href="3592/">heroin</a></li>
+    
+        <li><a href="3608/">hexobarbital</a></li>
+    
+        <li><a href="3609/">hexoprenaline</a></li>
+    
+        <li><a href="3623/">homatropine</a></li>
+    
+        <li><a href="3637/">hydralazine</a></li>
+    
+        <li><a href="3639/">hydrochlorothiazide</a></li>
+    
+        <li><a href="411697/">hydrocodone</a></li>
+    
+        <li><a href="3648/">hydromorphone</a></li>
+    
+        <li><a href="4479097/">hydroxocobalamin</a></li>
+    
+        <li><a href="3657/">hydroxyurea</a></li>
+    
+        <li><a href="3658/">hydroxyzine</a></li>
+    
+        <li><a href="68555/">ibopamine</a></li>
+    
+        <li><a href="3672/">ibuprofen</a></li>
+    
+        <li><a href="3685/">idarubicin</a></li>
+    
+        <li><a href="3686/">idebenone</a></li>
+    
+        <li><a href="3689/">ifenprodil</a></li>
+    
+        <li><a href="3690/">ifosfamide</a></li>
+    
+        <li><a href="5311181/">iloprost</a></li>
+    
+        <li><a href="5291/">imatinib</a></li>
+    
+        <li><a href="3693/">imidapril</a></li>
+    
+        <li><a href="3696/">imipramine</a></li>
+    
+        <li><a href="57469/">imiquimod</a></li>
+    
+        <li><a href="3702/">indapamide</a></li>
+    
+        <li><a href="44562/">indobufen</a></li>
+    
+        <li><a href="3715/">indomethacin</a></li>
+    
+        <li><a href="3718/">indoprofen</a></li>
+    
+        <li><a href="33625/">indoramin</a></li>
+    
+        <li><a href="3739/">iodipamide</a></li>
+    
+        <li><a href="3730/">iohexol</a></li>
+    
+        <li><a href="3735/">iopanoic acid</a></li>
+    
+        <li><a href="56016/">iopentol</a></li>
+    
+        <li><a href="2140/">iothalamate</a></li>
+    
+        <li><a href="3743/">ioxilan</a></li>
+    
+        <li><a href="3746/">ipratropium bromide</a></li>
+    
+        <li><a href="19063/">iproclozide</a></li>
+    
+        <li><a href="3748/">iproniazid</a></li>
+    
+        <li><a href="3749/">irbesartan</a></li>
+    
+        <li><a href="3750/">irinotecan</a></li>
+    
+        <li><a href="3759/">isocarboxazid</a></li>
+    
+        <li><a href="3763/">isoflurane</a></li>
+    
+        <li><a href="3779/">isoproterenol</a></li>
+    
+        <li><a href="3784/">isradipine</a></li>
+    
+        <li><a href="3821/">ketamine</a></li>
+    
+        <li><a href="3822/">ketanserin</a></li>
+    
+        <li><a href="3825/">ketoprofen</a></li>
+    
+        <li><a href="3826/">ketorolac</a></li>
+    
+        <li><a href="3827/">ketotifen</a></li>
+    
+        <li><a href="3869/">labetalol</a></li>
+    
+        <li><a href="68733/">lacidipine</a></li>
+    
+        <li><a href="3873/">lafutidine</a></li>
+    
+        <li><a href="3878/">lamotrigine</a></li>
+    
+        <li><a href="365716/">lanreotide</a></li>
+    
+        <li><a href="3883/">lansoprazole</a></li>
+    
+        <li><a href="3890/">latanoprost</a></li>
+    
+        <li><a href="3902/">letrozole</a></li>
+    
+        <li><a href="143/">leucovorin</a></li>
+    
+        <li><a href="3915/">levocabastine</a></li>
+    
+        <li><a href="836/">levodopa</a></li>
+    
+        <li><a href="3916/">levomepromazine</a></li>
+    
+        <li><a href="60867/">levosimendan</a></li>
+    
+        <li><a href="3676/">lidocaine</a></li>
+    
+        <li><a href="3932/">linopirdine</a></li>
+    
+        <li><a href="3938/">lisuride</a></li>
+    
+        <li><a href="30668/">lofexidine</a></li>
+    
+        <li><a href="2475/">looser</a></li>
+    
+        <li><a href="3954/">loperamide</a></li>
+    
+        <li><a href="3957/">loratadine</a></li>
+    
+        <li><a href="3958/">lorazepam</a></li>
+    
+        <li><a href="5282204/">lornoxicam</a></li>
+    
+        <li><a href="3961/">losartan</a></li>
+    
+        <li><a href="3962/">lovastatin</a></li>
+    
+        <li><a href="3964/">loxapine</a></li>
+    
+        <li><a href="151166/">lumiracoxib</a></li>
+    
+        <li><a href="5857/">lynestrenol</a></li>
+    
+        <li><a href="4008/">manidipine</a></li>
+    
+        <li><a href="4011/">maprotiline</a></li>
+    
+        <li><a href="4020/">mazindol</a></li>
+    
+        <li><a href="4032/">mecamylamine</a></li>
+    
+        <li><a href="4036/">meclofenamate</a></li>
+    
+        <li><a href="10631/">medroxyprogesterone</a></li>
+    
+        <li><a href="4044/">mefenamic acid</a></li>
+    
+        <li><a href="183797/">melagatran</a></li>
+    
+        <li><a href="4052/">meloxicam</a></li>
+    
+        <li><a href="15387/">melperone</a></li>
+    
+        <li><a href="4053/">melphalan</a></li>
+    
+        <li><a href="4054/">memantine</a></li>
+    
+        <li><a href="4058/">meperidine</a></li>
+    
+        <li><a href="4060/">mephenytoin</a></li>
+    
+        <li><a href="4992/">mepyramine</a></li>
+    
+        <li><a href="4066/">mequitazine</a></li>
+    
+        <li><a href="667490/">mercaptopurine</a></li>
+    
+        <li><a href="10294/">mersalyl</a></li>
+    
+        <li><a href="4078/">mesoridazine</a></li>
+    
+        <li><a href="4086/">metaproterenol</a></li>
+    
+        <li><a href="4087/">metaraminol</a></li>
+    
+        <li><a href="4090/">metergoline</a></li>
+    
+        <li><a href="4091/">metformin</a></li>
+    
+        <li><a href="28397/">methadol</a></li>
+    
+        <li><a href="4095/">methadone</a></li>
+    
+        <li><a href="1206/">methamphetamine</a></li>
+    
+        <li><a href="4100/">methazolamide</a></li>
+    
+        <li><a href="1349907/">methimazole</a></li>
+    
+        <li><a href="9034/">methohexital</a></li>
+    
+        <li><a href="4112/">methotrexate</a></li>
+    
+        <li><a href="6082/">methoxamine</a></li>
+    
+        <li><a href="4116/">methoxyflurane</a></li>
+    
+        <li><a href="4138/">methyldopa</a></li>
+    
+        <li><a href="4158/">methylphenidate</a></li>
+    
+        <li><a href="4159/">methylprednisolone</a></li>
+    
+        <li><a href="4120/">methylscopolamine</a></li>
+    
+        <li><a href="4160/">methyltestosterone</a></li>
+    
+        <li><a href="4163/">methysergide</a></li>
+    
+        <li><a href="31477/">metipranolol</a></li>
+    
+        <li><a href="4168/">metoclopramide</a></li>
+    
+        <li><a href="4171/">metoprolol</a></li>
+    
+        <li><a href="4174/">metyrapone</a></li>
+    
+        <li><a href="4178/">mexiletine</a></li>
+    
+        <li><a href="4184/">mianserin</a></li>
+    
+        <li><a href="60663/">mibefradil</a></li>
+    
+        <li><a href="4192/">midazolam</a></li>
+    
+        <li><a href="4195/">midodrine</a></li>
+    
+        <li><a href="4196/">mifepristone</a></li>
+    
+        <li><a href="51577/">miglitol</a></li>
+    
+        <li><a href="65833/">milnacipran</a></li>
+    
+        <li><a href="4197/">milrinone</a></li>
+    
+        <li><a href="3599/">miltefosine</a></li>
+    
+        <li><a href="4199/">minaprine</a></li>
+    
+        <li><a href="4201/">minoxidil</a></li>
+    
+        <li><a href="4205/">mirtazapine</a></li>
+    
+        <li><a href="4183806/">misoprostol</a></li>
+    
+        <li><a href="29051/">mithramycin</a></li>
+    
+        <li><a href="5746/">mitomycin C</a></li>
+    
+        <li><a href="4212/">mitoxantrone</a></li>
+    
+        <li><a href="65906/">mizolastine</a></li>
+    
+        <li><a href="4235/">moclobemide</a></li>
+    
+        <li><a href="4236/">modafinil</a></li>
+    
+        <li><a href="91270/">moexipril</a></li>
+    
+        <li><a href="23897/">molindone</a></li>
+    
+        <li><a href="123620/">mometasone</a></li>
+    
+        <li><a href="4034/">monamine</a></li>
+    
+        <li><a href="5311297/">montelukast</a></li>
+    
+        <li><a href="4253/">morphine</a></li>
+    
+        <li><a href="4257/">mosapramine</a></li>
+    
+        <li><a href="66408/">moxestrol</a></li>
+    
+        <li><a href="4810/">moxonidine</a></li>
+    
+        <li><a href="39860/">nabilone</a></li>
+    
+        <li><a href="4409/">nabumetone</a></li>
+    
+        <li><a href="4411/">nadolol</a></li>
+    
+        <li><a href="4419/">nalbuphine</a></li>
+    
+        <li><a href="4428/">naltrexone</a></li>
+    
+        <li><a href="4436/">naphazoline</a></li>
+    
+        <li><a href="1302/">naproxen</a></li>
+    
+        <li><a href="4440/">naratriptan</a></li>
+    
+        <li><a href="71301/">nebivolol</a></li>
+    
+        <li><a href="50294/">nedocromil sodium</a></li>
+    
+        <li><a href="4449/">nefazodone</a></li>
+    
+        <li><a href="4456/">neostigmine</a></li>
+    
+        <li><a href="4472/">nialamide</a></li>
+    
+        <li><a href="71919/">niaprazine</a></li>
+    
+        <li><a href="4475/">nicergoline</a></li>
+    
+        <li><a href="4476/">niceritrol</a></li>
+    
+        <li><a href="47528/">nicorandil</a></li>
+    
+        <li><a href="942/">nicotine</a></li>
+    
+        <li><a href="4485/">nifedipine</a></li>
+    
+        <li><a href="4488/">niflumic acid</a></li>
+    
+        <li><a href="4493/">nilutamide</a></li>
+    
+        <li><a href="4494/">nilvadipine</a></li>
+    
+        <li><a href="4495/">nimesulide</a></li>
+    
+        <li><a href="4497/">nimodipine</a></li>
+    
+        <li><a href="4499/">nisoldipine</a></li>
+    
+        <li><a href="115355/">nitisinone</a></li>
+    
+        <li><a href="4507/">nitrendipine</a></li>
+    
+        <li><a href="4510/">nitroglycerin</a></li>
+    
+        <li><a href="4513/">nizatidine</a></li>
+    
+        <li><a href="68783/">nomegestrol</a></li>
+    
+        <li><a href="4528/">nomifensine</a></li>
+    
+        <li><a href="4534/">nordihydroguaiaretic acid</a></li>
+    
+        <li><a href="4536/">norethisterone</a></li>
+    
+        <li><a href="4543/">nortriptyline</a></li>
+    
+        <li><a href="4581/">octopamine</a></li>
+    
+        <li><a href="21630/">octyl methoxycinnamate</a></li>
+    
+        <li><a href="4585/">olanzapine</a></li>
+    
+        <li><a href="60865/">olopatadine</a></li>
+    
+        <li><a href="4595/">ondansetron</a></li>
+    
+        <li><a href="4599/">orlistat</a></li>
+    
+        <li><a href="4601/">orphenadrine</a></li>
+    
+        <li><a href="4605/">ouabain</a></li>
+    
+        <li><a href="5878/">oxandrolone</a></li>
+    
+        <li><a href="4614/">oxaprozin</a></li>
+    
+        <li><a href="6257/">oxazolidinone</a></li>
+    
+        <li><a href="34312/">oxcarbazepine</a></li>
+    
+        <li><a href="4634/">oxybutynin</a></li>
+    
+        <li><a href="4635/">oxycodone</a></li>
+    
+        <li><a href="4636/">oxymetazoline</a></li>
+    
+        <li><a href="4641/">oxyphenbutazone</a></li>
+    
+        <li><a href="4642/">oxyphencyclimine</a></li>
+    
+        <li><a href="5749/">oxyphenonium</a></li>
+    
+        <li><a href="4677/">pantethine</a></li>
+    
+        <li><a href="4679/">pantoprazole</a></li>
+    
+        <li><a href="4680/">papaverine</a></li>
+    
+        <li><a href="9395/">paraoxon</a></li>
+    
+        <li><a href="4688/">pargyline</a></li>
+    
+        <li><a href="4691/">paroxetine</a></li>
+    
+        <li><a href="60843/">pemetrexed</a></li>
+    
+        <li><a href="33630/">penfluridol</a></li>
+    
+        <li><a href="4736/">pentazocine</a></li>
+    
+        <li><a href="4737/">pentobarbital</a></li>
+    
+        <li><a href="4740/">pentoxifylline</a></li>
+    
+        <li><a href="5917/">pentylenetetrazol</a></li>
+    
+        <li><a href="4744/">perazine</a></li>
+    
+        <li><a href="4745/">pergolide</a></li>
+    
+        <li><a href="4746/">perhexiline</a></li>
+    
+        <li><a href="60184/">perindopril</a></li>
+    
+        <li><a href="4748/">perphenazine</a></li>
+    
+        <li><a href="4754/">phenacetin</a></li>
+    
+        <li><a href="71472/">phenamine</a></li>
+    
+        <li><a href="14707/">phenazocine</a></li>
+    
+        <li><a href="3675/">phenelzine</a></li>
+    
+        <li><a href="11291/">phenindamine</a></li>
+    
+        <li><a href="4761/">pheniramine</a></li>
+    
+        <li><a href="4763/">phenobarbital</a></li>
+    
+        <li><a href="4766/">phenol red</a></li>
+    
+        <li><a href="4768/">phenoxybenzamine</a></li>
+    
+        <li><a href="9908/">phenprocoumon</a></li>
+    
+        <li><a href="4771/">phentermine</a></li>
+    
+        <li><a href="5775/">phentolamine</a></li>
+    
+        <li><a href="4781/">phenylbutazone</a></li>
+    
+        <li><a href="4782/">phenylephrine</a></li>
+    
+        <li><a href="4786/">phenylpropanolamine</a></li>
+    
+        <li><a href="1775/">phenytoin</a></li>
+    
+        <li><a href="587/">phosphocreatine</a></li>
+    
+        <li><a href="4811/">physostigmine</a></li>
+    
+        <li><a href="657319/">picotamide</a></li>
+    
+        <li><a href="4819/">pilocarpine</a></li>
+    
+        <li><a href="16362/">pimozide</a></li>
+    
+        <li><a href="4826/">pinacidil</a></li>
+    
+        <li><a href="40704/">pinaverium bromide</a></li>
+    
+        <li><a href="4828/">pindolol</a></li>
+    
+        <li><a href="4829/">pioglitazone</a></li>
+    
+        <li><a href="50191/">pipecuronium</a></li>
+    
+        <li><a href="4844/">pirarubicin</a></li>
+    
+        <li><a href="4845/">pirbuterol</a></li>
+    
+        <li><a href="4848/">pirenzepine</a></li>
+    
+        <li><a href="4856/">piroxicam</a></li>
+    
+        <li><a href="27400/">pizotifen</a></li>
+    
+        <li><a href="32744/">polyinosinic-polycytidylic acid</a></li>
+    
+        <li><a href="4883/">practolol</a></li>
+    
+        <li><a href="4885/">pramipexole</a></li>
+    
+        <li><a href="4887/">pranlukast</a></li>
+    
+        <li><a href="4889/">pravastatin</a></li>
+    
+        <li><a href="4893/">prazosin</a></li>
+    
+        <li><a href="4894/">prednisolone</a></li>
+    
+        <li><a href="4900/">prednisone</a></li>
+    
+        <li><a href="42396/">prenalterol</a></li>
+    
+        <li><a href="9801/">prenylamine</a></li>
+    
+        <li><a href="4911/">probenecid</a></li>
+    
+        <li><a href="4912/">probucol</a></li>
+    
+        <li><a href="4913/">procainamide</a></li>
+    
+        <li><a href="4914/">procaine</a></li>
+    
+        <li><a href="4916/">procaterol</a></li>
+    
+        <li><a href="4917/">prochlorperazine</a></li>
+    
+        <li><a href="4919/">procyclidine</a></li>
+    
+        <li><a href="5361323/">progabide</a></li>
+    
+        <li><a href="4922/">proglumide</a></li>
+    
+        <li><a href="4926/">promazine</a></li>
+    
+        <li><a href="36709/">promegestone</a></li>
+    
+        <li><a href="4927/">promethazine</a></li>
+    
+        <li><a href="4932/">propafenone</a></li>
+    
+        <li><a href="15004/">propanidid</a></li>
+    
+        <li><a href="4934/">propantheline</a></li>
+    
+        <li><a href="4938/">propentofylline</a></li>
+    
+        <li><a href="4943/">propofol</a></li>
+    
+        <li><a href="10100/">propoxyphene</a></li>
+    
+        <li><a href="4946/">propranolol</a></li>
+    
+        <li><a href="657298/">propylthiouracil</a></li>
+    
+        <li><a href="4991/">pyridostigmine</a></li>
+    
+        <li><a href="5002/">quetiapine</a></li>
+    
+        <li><a href="55645/">quinagolide</a></li>
+    
+        <li><a href="5005/">quinapril</a></li>
+    
+        <li><a href="5029/">rabeprazole</a></li>
+    
+        <li><a href="5035/">raloxifene</a></li>
+    
+        <li><a href="5038/">ramipril</a></li>
+    
+        <li><a href="5039/">ranitidine</a></li>
+    
+        <li><a href="5040/">rapamycin</a></li>
+    
+        <li><a href="65856/">reboxetine</a></li>
+    
+        <li><a href="60815/">remifentanil</a></li>
+    
+        <li><a href="5230731/">remikiren</a></li>
+    
+        <li><a href="51768/">remoxipride</a></li>
+    
+        <li><a href="4547/">repaglinide</a></li>
+    
+        <li><a href="5052/">reserpine</a></li>
+    
+        <li><a href="2196/">reset</a></li>
+    
+        <li><a href="68712/">rilmenidine</a></li>
+    
+        <li><a href="5070/">riluzole</a></li>
+    
+        <li><a href="5245/">risedronate</a></li>
+    
+        <li><a href="5073/">risperidone</a></li>
+    
+        <li><a href="31729/">ritodrine</a></li>
+    
+        <li><a href="5077/">rivastigmine</a></li>
+    
+        <li><a href="5090/">rofecoxib</a></li>
+    
+        <li><a href="5095/">ropinirole</a></li>
+    
+        <li><a href="71273/">ropivacaine</a></li>
+    
+        <li><a href="25474/">rose bengal</a></li>
+    
+        <li><a href="77999/">rosiglitazone</a></li>
+    
+        <li><a href="4475485/">rosuvastatin</a></li>
+    
+        <li><a href="91276/">roxatidine</a></li>
+    
+        <li><a href="2083/">salbutamol</a></li>
+    
+        <li><a href="338/">salicylate</a></li>
+    
+        <li><a href="5152/">salmeterol</a></li>
+    
+        <li><a href="5184/">scopolamine</a></li>
+    
+        <li><a href="5193/">secobarbital</a></li>
+    
+        <li><a href="10715/">sedormid</a></li>
+    
+        <li><a href="5195/">selegiline</a></li>
+    
+        <li><a href="60149/">sertindole</a></li>
+    
+        <li><a href="5203/">sertraline</a></li>
+    
+        <li><a href="5206/">sevoflurane</a></li>
+    
+        <li><a href="5210/">sibutramine</a></li>
+    
+        <li><a href="5212/">sildenafil</a></li>
+    
+        <li><a href="5213/">silymarin</a></li>
+    
+        <li><a href="54454/">simvastatin</a></li>
+    
+        <li><a href="5253/">sotalol</a></li>
+    
+        <li><a href="3966/">sparteine</a></li>
+    
+        <li><a href="91736/">spirapril</a></li>
+    
+        <li><a href="5267/">spironolactone</a></li>
+    
+        <li><a href="5277/">stanozolol</a></li>
+    
+        <li><a href="5300/">streptozotocin</a></li>
+    
+        <li><a href="5314/">succinylcholine</a></li>
+    
+        <li><a href="41693/">sufentanil</a></li>
+    
+        <li><a href="5353980/">sulfasalazine</a></li>
+    
+        <li><a href="5342/">sulfinpyrazone</a></li>
+    
+        <li><a href="5345/">sulfobromophthalein</a></li>
+    
+        <li><a href="5352/">sulindac</a></li>
+    
+        <li><a href="5355/">sulpiride</a></li>
+    
+        <li><a href="5312153/">sulprostone</a></li>
+    
+        <li><a href="5358/">sumatriptan</a></li>
+    
+        <li><a href="5359/">suprofen</a></li>
+    
+        <li><a href="7172/">synephrine</a></li>
+    
+        <li><a href="5530/">tPA</a></li>
+    
+        <li><a href="5372/">tacrolimus</a></li>
+    
+        <li><a href="110635/">tadalafil</a></li>
+    
+        <li><a href="68770/">talinolol</a></li>
+    
+        <li><a href="5376/">tamoxifen</a></li>
+    
+        <li><a href="60147/">tamsulosin</a></li>
+    
+        <li><a href="5381/">tazarotene</a></li>
+    
+        <li><a href="5386/">tegafur</a></li>
+    
+        <li><a href="5487301/">tegaserod</a></li>
+    
+        <li><a href="65999/">telmisartan</a></li>
+    
+        <li><a href="5393/">temocapril</a></li>
+    
+        <li><a href="5394/">temozolomide</a></li>
+    
+        <li><a href="60712/">tenidap</a></li>
+    
+        <li><a href="5396/">teniposide</a></li>
+    
+        <li><a href="5397/">tenoxicam</a></li>
+    
+        <li><a href="5401/">terazosin</a></li>
+    
+        <li><a href="5403/">terbutaline</a></li>
+    
+        <li><a href="5405/">terfenadine</a></li>
+    
+        <li><a href="72081/">terlipressin</a></li>
+    
+        <li><a href="36920/">tertatolol</a></li>
+    
+        <li><a href="6018/">tetrabenazine</a></li>
+    
+        <li><a href="5411/">tetracaine</a></li>
+    
+        <li><a href="5426/">thalidomide</a></li>
+    
+        <li><a href="5429/">theobromine</a></li>
+    
+        <li><a href="2723601/">thioguanine</a></li>
+    
+        <li><a href="5452/">thioridazine</a></li>
+    
+        <li><a href="5454/">thiothixene</a></li>
+    
+        <li><a href="23403/">tiadenol</a></li>
+    
+        <li><a href="5466/">tiagabine</a></li>
+    
+        <li><a href="5467/">tiapride</a></li>
+    
+        <li><a href="5468/">tiaprofenic acid</a></li>
+    
+        <li><a href="100788/">tiazofurin</a></li>
+    
+        <li><a href="5470/">tibolone</a></li>
+    
+        <li><a href="5472/">ticlopidine</a></li>
+    
+        <li><a href="38409/">tienilic acid</a></li>
+    
+        <li><a href="5478/">timolol</a></li>
+    
+        <li><a href="60831/">tiotropium</a></li>
+    
+        <li><a href="5486/">tirofiban</a></li>
+    
+        <li><a href="5487/">tizanidine</a></li>
+    
+        <li><a href="5504/">tolazoline</a></li>
+    
+        <li><a href="5505/">tolbutamide</a></li>
+    
+        <li><a href="4659569/">tolcapone</a></li>
+    
+        <li><a href="5507/">tolfenamic acid</a></li>
+    
+        <li><a href="5508/">tolmetin</a></li>
+    
+        <li><a href="34521/">toloxatone</a></li>
+    
+        <li><a href="5512/">tolterodine</a></li>
+    
+        <li><a href="5514/">topiramate</a></li>
+    
+        <li><a href="5515/">topotecan</a></li>
+    
+        <li><a href="41781/">torasemide</a></li>
+    
+        <li><a href="5516/">toremifene</a></li>
+    
+        <li><a href="5523/">tramadol</a></li>
+    
+        <li><a href="5524/">tramazoline</a></li>
+    
+        <li><a href="5525/">trandolapril</a></li>
+    
+        <li><a href="5526/">tranexamic acid</a></li>
+    
+        <li><a href="5531/">trapidil</a></li>
+    
+        <li><a href="5533/">trazodone</a></li>
+    
+        <li><a href="5544/">triamcinolone</a></li>
+    
+        <li><a href="5556/">triazolam</a></li>
+    
+        <li><a href="5566/">trifluoperazine</a></li>
+    
+        <li><a href="5568/">triflupromazine</a></li>
+    
+        <li><a href="9458/">triflusal</a></li>
+    
+        <li><a href="5572/">trihexyphenidyl</a></li>
+    
+        <li><a href="5573/">trimebutine</a></li>
+    
+        <li><a href="5574/">trimeprazine</a></li>
+    
+        <li><a href="21109/">trimetazidine</a></li>
+    
+        <li><a href="23576/">trimethaphan</a></li>
+    
+        <li><a href="5581/">trimetoquinol</a></li>
+    
+        <li><a href="5584/">trimipramine</a></li>
+    
+        <li><a href="5587/">tripelennamine</a></li>
+    
+        <li><a href="5588/">triprolidine</a></li>
+    
+        <li><a href="72145/">tritoqualine</a></li>
+    
+        <li><a href="5591/">troglitazone</a></li>
+    
+        <li><a href="11047/">tromexan</a></li>
+    
+        <li><a href="5593/">tropicamide</a></li>
+    
+        <li><a href="5595/">tropisetron</a></li>
+    
+        <li><a href="5596/">trospium chloride</a></li>
+    
+        <li><a href="5636/">unoprostone</a></li>
+    
+        <li><a href="5639/">urapidil</a></li>
+    
+        <li><a href="119607/">valdecoxib</a></li>
+    
+        <li><a href="3121/">valproic acid</a></li>
+    
+        <li><a href="5650/">valsartan</a></li>
+    
+        <li><a href="5656/">venlafaxine</a></li>
+    
+        <li><a href="2520/">verapamil</a></li>
+    
+        <li><a href="5665/">vigabatrin</a></li>
+    
+        <li><a href="13342/">vinblastine</a></li>
+    
+        <li><a href="5978/">vincristine</a></li>
+    
+        <li><a href="5672/">vinorelbine</a></li>
+    
+        <li><a href="5677/">voglibose</a></li>
+    
+        <li><a href="6691/">warfarin</a></li>
+    
+        <li><a href="155774/">xamoterol</a></li>
+    
+        <li><a href="9574101/">ximelagatran</a></li>
+    
+        <li><a href="2866/">yohimbine</a></li>
+    
+        <li><a href="5717/">zafirlukast</a></li>
+    
+        <li><a href="5719/">zaleplon</a></li>
+    
+        <li><a href="60854/">ziprasidone</a></li>
+    
+        <li><a href="92400/">zofenopril</a></li>
+    
+        <li><a href="68740/">zoledronic acid</a></li>
+    
+        <li><a href="5731/">zolmitriptan</a></li>
+    
+        <li><a href="5732/">zolpidem</a></li>
+    
+        <li><a href="5733/">zomepirac</a></li>
+    
+        <li><a href="5734/">zonisamide</a></li>
+    
+        <li><a href="5736/">zotepine</a></li>
+    
+    </ul>
+
+
+
+    </div>
+    <div id="disclaimer" style="position: relative; top: 3em;">
+	<small>
+		<p><strong>Disclaimer</strong></p>
+		<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+		<img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" />
+		</a>
+		<br />This work is licensed under a 
+		<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 License</a>. If you wish to use MATADOR commercially, please contact <a href="http://www-db.embl.de/jss/EmblGroupsHD/per_173.html">Peer Bork</a> to obtain a license.</p>
+		<p>The image of the Matador statue is also under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons License</a> and has been published on <a href="http://flickr.com/photos/mybloodyself/79236858/">Flickr</a>. Lastly, we don't think <a href="http://en.wikipedia.org/wiki/Bullfighting">killing bulls for enjoyment</a> is a good idea.</p>
+	</small>
+    </div>
+
+</body>
+</html>
