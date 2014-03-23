@@ -6,5 +6,6 @@
 from scrapy.item import Item, Field
 
 class MatscrapeItem(Item):
+   drugname =Field()
    link= Field()
-    pass
+   

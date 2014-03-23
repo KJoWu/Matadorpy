@@ -13,6 +13,6 @@ class MatadorSpider(Spider):
         sel = Selector(response)
         sites = sel.xpath('//ul/li')
         for site in sites:
-            #link = site.xpath('a/@href').extract()  
             drugname =site.xpath('a/text()').extract()
-            print "drug is", drugname
+            link = site.xpath('a/@href').extract()              
+            print "drug is", drugname, "link is" , link
