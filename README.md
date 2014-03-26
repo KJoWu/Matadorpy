@@ -2,7 +2,7 @@
 
 Author: Kim Wu
 
-2 very simple scripts made in Scrapy. 
+2 very simple scripts for extracting info from Matador. 
 
 ###Matador Spider:
 #####Run in the command line:   
