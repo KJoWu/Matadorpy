@@ -20,3 +20,5 @@ class MatadorSpider(Spider):
             item['drugname'] =site.xpath('a/text()').extract()
             items.append(item)
         return items
+
+
