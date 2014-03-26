@@ -1,6 +1,6 @@
 from scrapy.spider import Spider
 from scrapy.selector import Selector
-from Matscrape.items import DrugInfo
+from Matador.items import DrugInfo
 
 
 class MatadorSpider(Spider):
@@ -16,6 +16,7 @@ class MatadorSpider(Spider):
         items=[]
         for site in sites:
             item=DrugInfo()
+            item['link'] = site.xpath('a/@href').extract()
             item['drugname'] =site.xpath('a/text()').extract()
-            item['link'] = site.xpath('a/@href').extract() 
-            return items
+            items.append(item)
+        return items
