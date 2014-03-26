@@ -7,5 +7,6 @@ from scrapy.item import Item, Field
 
 class DrugInfo(Item):
    link= Field()
+   drugname=Field()
 
    
