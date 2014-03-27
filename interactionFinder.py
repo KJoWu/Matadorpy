@@ -2,10 +2,9 @@
 # -*- coding: utf-8 -*-
 
 import csv
-import nltk
-import urllib
+import urllib2
 import sys
-
+from BeautifulSoup import BeautifulSoup
 
 #Read csv file and convert it to a dictionary
 def csv_reader(file_obj):
@@ -14,10 +13,13 @@ def csv_reader(file_obj):
         find_interactions(line)
         
 #access url and find interactions
-#by accessing url online and reading text. 
 def find_interactions(info):
-    url = "http://matador.embl.de/drugs/" + info['link']     
-    html = urllib.urlopen(url).read()
+    url = "http://matador.embl.de/proteins/" + info['link'] 
+    response = urllib2.urlopen(url)
+    html = response.read()    
+    soup = BeautifulSoup(html)
+    print soup.prettify()
+    
 
     
 if __name__ == "__main__":
