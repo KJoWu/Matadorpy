@@ -9,6 +9,7 @@ class MatadorSpider(Spider):
     start_urls = [
         "http://matador.embl.de/proteins/"
     ]
+    base = "http://matador.embl.de/proteins/"
 
     def parse(self, response):
         sel = Selector(response)
@@ -17,7 +18,7 @@ class MatadorSpider(Spider):
         for site in sites:
             item=ProteinInfo()
             item['proteinName'] =site.xpath('a/text()').extract
-            item['url'] = site.xpath('a/@href').extract()
+            item['url'] = base + site.xpath('a/@href').extract()
             items.append(item)
         return items
 
