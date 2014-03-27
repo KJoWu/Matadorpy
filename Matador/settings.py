@@ -1,4 +1,4 @@
-# Scrapy settings for MataScrape project
+# Scrapy settings for Matador project
 #
 # For simplicity, this file contains only the most important settings by
 # default. All the other settings are documented here:
@@ -6,10 +6,10 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #
 
-BOT_NAME = 'MataScrape'
+BOT_NAME = 'Matador'
 
-SPIDER_MODULES = ['MataScrape.spiders']
-NEWSPIDER_MODULE = 'MataScrape.spiders'
+SPIDER_MODULES = ['Matador.spiders']
+NEWSPIDER_MODULE = 'Matador.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'MataScrape (+http://www.yourdomain.com)'
+#USER_AGENT = 'Matador (+http://www.yourdomain.com)'
