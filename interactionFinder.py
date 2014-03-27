@@ -5,6 +5,8 @@ import csv
 import urllib2
 import sys
 from BeautifulSoup import BeautifulSoup
+import re
+import string
 
 #Read csv file and convert it to a dictionary
 def csv_reader(file_obj):
@@ -18,8 +20,11 @@ def find_interactions(info):
     response = urllib2.urlopen(url)
     html = response.read()    
     soup = BeautifulSoup(html)
-    print soup.prettify()
-    
+    p= soup.findAll('ul')
+    print p
+
+    exit()
+
 
     
 if __name__ == "__main__":
