@@ -5,8 +5,7 @@
 
 from scrapy.item import Item, Field
 
-class DrugInfo(Item):
-   link= Field()
-   proteinName=Field()
-
-   
+class MatascrapeItem(Item):
+    drugName = Field()
+    proteinName = Field()
+    pubmed = Field()
