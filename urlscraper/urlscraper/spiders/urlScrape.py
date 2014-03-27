@@ -18,7 +18,7 @@ class MatadorSpider(Spider):
         for site in sites:
             item=ProteinInfo()
             item['proteinName'] =site.xpath('a/text()').extract
-            item['url'] = base + site.xpath('a/@href').extract()
+            item['url'] = site.xpath('a/@href').extract()
             items.append(item)
         return items
 
