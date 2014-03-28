@@ -8,6 +8,8 @@ from BeautifulSoup import BeautifulSoup
 import re
 import string
 
+matador_list = []
+
 #Read csv file and convert it to a dictionary
 def csv_reader(file_obj):
     reader = csv.DictReader(file_obj, delimiter=',')
@@ -38,6 +40,7 @@ def cleaned(line):
 
 def check_html(line, info):
     count=0;
+    curr_list=[];
     for words in line:
         word= words.strip()    
         
@@ -74,8 +77,16 @@ def check_html(line, info):
             #Get PMID
                 pmid= Find_id.findall(word)
                 for url in pmid:
-                    url =url.replace("uids=","")
-                    print "drug: " + drug + " pmid: " + url + " interaction: " + interaction_type + "protein: " + info['proteinName']
+                    url = url.replace("uids=","")
+                    protein=info['proteinName']
+                    curr_list.append(protein)
+                    curr_list.append(drug)
+                    curr_list.append(interaction_type)
+                    curr_list.append(url)
+		    matador_list.append(curr_list[:])
+		    del curr_list[:]
+                    
+                    #print "drug: " + drug + " pmid: " + url + " interaction: " + interaction_type + "protein: " + info['proteinName']
                
             
             
@@ -83,3 +94,6 @@ def check_html(line, info):
 if __name__ == "__main__":
     with open("items.csv") as f_obj:
         csv_reader(f_obj)
+    for lists in matador_list:
+	print lists
+	
