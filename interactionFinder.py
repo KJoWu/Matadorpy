@@ -79,21 +79,28 @@ def check_html(line, info):
                 for url in pmid:
                     url = url.replace("uids=","")
                     protein=info['proteinName']
-                    curr_list.append(protein)
+                    curr_list.append(protein )
                     curr_list.append(drug)
                     curr_list.append(interaction_type)
                     curr_list.append(url)
 		    matador_list.append(curr_list[:])
 		    del curr_list[:]
-                    
-                    #print "drug: " + drug + " pmid: " + url + " interaction: " + interaction_type + "protein: " + info['proteinName']
-               
-            
-            
 
+#convert file to csv
+
+def csv_converter(mat_list):
+    with open('Matador_Results.csv', 'wb') as csvfile:
+	csv_writer = csv.writer(csvfile, delimiter=' ',
+	                        quotechar='"', quoting=csv.QUOTE_MINIMAL)
+	csv_writer.writerow( ["Protein", "Drug", "Interaction", "Pmid"])
+	for mat_row in mat_list:
+	    csv_writer.writerow(mat_row)
+    csvfile.close()
+    
+	    
+            
 if __name__ == "__main__":
     with open("items.csv") as f_obj:
         csv_reader(f_obj)
-    for lists in matador_list:
-	print lists
+    csv_converter(matador_list)
 	
