@@ -23,7 +23,7 @@ def find_interactions(info):
     soup = BeautifulSoup(html)
     p=soup.findAll('li')
     clean_html = cleaned(p)
-    check_html(clean_html)
+    check_html(clean_html, info)
     
 #Cleaning the code to be easier to parse
 def cleaned(line):
@@ -36,35 +36,47 @@ def cleaned(line):
     return newline
 
 
-def check_html(line):
+def check_html(line, info):
+    count=0;
     for words in line:
         word= words.strip()    
         
         #Check to See interaction type
-        if ("Direct interaction" in word):
-            interaction_type = "Direct"
-        elif ("Indirect interaction" in word):
-            interaction_type = "Indirect"
-        elif("Direct or indirect" in word):
-            interaction_type= "Both"
-            
+        if("interaction" in word):
+            count=1;
+            if ("Direct interaction" in word):
+                interaction_type = "Direct"
+            elif ("Indirect interaction" in word):
+                interaction_type = "Indirect"
+            elif("Direct or indirect" in word):
+                interaction_type= "Both"
+            continue;
+        
         #check to see pubmed and extract articles and drugs
         if ("pubmed" in word):
             Find1 = re.compile(r'\/\d{4}/">\w+</a>')
             Find2 =  re.compile(r'>\w+<')
             Find_id = re.compile(r'uids=\d*')
-            proteinPath = re.search(Find1, word)
+            drugPath = re.search(Find1, word)
             
-            #Get Protein
-            if (proteinPath):
-                p_line= proteinPath.group()
-                protein = re.search(Find2, p_line)
-                protein = protein.group().replace(">","").replace("<","")
-                print protein    
-           
+            #Get Drug
+            if (drugPath):
+                d_line= drugPath.group()
+                drug = re.search(Find2, d_line)
+                drug = drug.group().replace(">","").replace("<","")
+                #needed if Beautiful soup has duplicates
+                if (count==1):
+                    first_drug = drug;
+                    count=2;
+                elif (count==2):
+                    if(first_drug==drug):
+                        break;
             #Get PMID
-                pmidPath = re.search(Find_id, word)
-                print pmidPath.group()
+                pmid= Find_id.findall(word)
+                for url in pmid:
+                    url =url.replace("uids=","")
+                    print "drug: " + drug + " pmid: " + url + " interaction: " + interaction_type + "protein: " + info['proteinName']
+               
             
             
 
