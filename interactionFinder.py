@@ -50,11 +50,23 @@ def check_html(line):
             
         #check to see pubmed and extract articles and drugs
         if ("pubmed" in word):
-            print word            
-           # regular expression for protein
-            #regular expression for pmid's
-            pass
-        
+            Find1 = re.compile(r'\/\d{4}/">\w+</a>')
+            Find2 =  re.compile(r'>\w+<')
+            Find_id = re.compile(r'uids=\d*')
+            proteinPath = re.search(Find1, word)
+            
+            #Get Protein
+            if (proteinPath):
+                p_line= proteinPath.group()
+                protein = re.search(Find2, p_line)
+                protein = protein.group().replace(">","").replace("<","")
+                print protein    
+           
+            #Get PMID
+                pmidPath = re.search(Find_id, word)
+                print pmidPath.group()
+            
+            
 
 if __name__ == "__main__":
     with open("items.csv") as f_obj:
