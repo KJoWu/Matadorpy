@@ -14,11 +14,11 @@ matador_list = []
 def csv_reader(file_obj):
     reader = csv.DictReader(file_obj, delimiter=',')
     for line in reader:
+	print ("Mining " + line["proteinName"]) 
         find_interactions(line)
         
 #access url and find interactions
 def find_interactions(info):
-    print("\n")    
     url = "http://matador.embl.de/proteins/" + info['link'] 
     response = urllib2.urlopen(url)
     html = response.read()    
@@ -53,6 +53,8 @@ def check_html(line, info):
                 interaction_type = "Indirect"
             elif("Direct or indirect" in word):
                 interaction_type= "Both"
+	    elif("Direct but not" in word):
+		interaction_type= "Not medically relevant"
             continue;
         
         #check to see pubmed and extract articles and drugs
@@ -87,7 +89,6 @@ def check_html(line, info):
 		    del curr_list[:]
 
 #convert file to csv
-
 def csv_converter(mat_list):
     with open('Matador_Results.csv', 'wb') as csvfile:
 	csv_writer = csv.writer(csvfile, delimiter=' ',
@@ -96,8 +97,7 @@ def csv_converter(mat_list):
 	for mat_row in mat_list:
 	    csv_writer.writerow(mat_row)
     csvfile.close()
-    
-	    
+
             
 if __name__ == "__main__":
     with open("items.csv") as f_obj:
